@@ -1,8 +1,8 @@
 ✨ Hi, My username is copper-skulls but my name's **Lupik**, call me that, please! ✨
 
-This account is for my personal projects, fun stuff etc...
-That doesn't mean they won't be maintained! They simply aren't part
-of my dayjob. :)
+Avatar by [Corruptimles](https://corruptimles.tumblr.com/).
+
+Personal, non-work account. Though some work lives in private - do you know what an SSH mess it is to have two GitHub accounts? It's not worth it - don't do it.
 
 If you have issues/questions about anything, don't be afraid to open an issue!
 That's probably the easiest way how to get a hold of me, as well.
